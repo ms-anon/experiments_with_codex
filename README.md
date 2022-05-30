@@ -2,15 +2,15 @@
 ### Code Synthesis Evaluation of Codex using Python problem statements from HackerRank
 
 01_intoduction 
-| problem_statement | full_problems    | missing_specifications | missing_objectives | diff_objectives  |
-|:------------------|:-----------------|:-----------------------|:-------------------|:-----------------|
-| #1                |:white_check_mark:|:heavy_minus_sign:      |:heavy_minus_sign:  |:heavy_minus_sign:|               
-| #2                |:white_check_mark:|:x:                     |:white_check_mark:  |:x:               |
-| #3                |:white_check_mark:|:white_check_mark:      |:white_check_mark:  |:heavy_minus_sign:|
-| #4                |:white_check_mark:|:x:                     |:white_check_mark:  |:heavy_minus_sign:|
-| #5                |:white_check_mark:|:heavy_minus_sign:      |:heavy_minus_sign:  |:heavy_minus_sign:|
-| #6                |:white_check_mark:|:white_check_mark:      |:heavy_minus_sign:  |:heavy_minus_sign:|
-| #7                |:white_check_mark:|:white_check_mark:      |:white_check_mark:  |:heavy_minus_sign:|
+| problem_statement    | full_problems                      | missing_specifications                   | missing_objectives                   | diff_objectives                    |
+|:------------------   |:-----------------                  |:-----------------------                  |:-------------------                  |:-----------------                  |
+| #1                   |:white_check_mark:                  |:heavy_minus_sign:                        |:heavy_minus_sign:                    |:heavy_minus_sign:                  |               
+| #2                   |:white_check_mark:                  |:white_check_mark:                        |:x:                                   |:x:                                 |
+| #3                   |:white_check_mark:                  |:white_check_mark:                        |:white_check_mark:                    |:heavy_minus_sign:                  |
+| #4                   |:white_check_mark:                  |:white_check_mark:                        |:x:                                   |:heavy_minus_sign:                  |
+| #5                   |:white_check_mark:                  |:heavy_minus_sign:                        |:heavy_minus_sign:                    |:heavy_minus_sign:                  |
+| #6                   |:white_check_mark:                  |:white_check_mark:                        |:heavy_minus_sign:                    |:heavy_minus_sign:                  |
+| #7                   |:white_check_mark:                  |:white_check_mark:                        |:white_check_mark:                    |:heavy_minus_sign:                  |
 
 02_basic_data_types
 | problem_statement    | full_problems                      | missing_specifications                   | missing_objectives                   | diff_objectives                    |
