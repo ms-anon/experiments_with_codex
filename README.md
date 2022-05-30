@@ -11,6 +11,7 @@
 | #5                   |:white_check_mark:                  |:heavy_minus_sign:                        |:heavy_minus_sign:                    |:heavy_minus_sign:                  |
 | #6                   |:white_check_mark:                  |:white_check_mark:                        |:heavy_minus_sign:                    |:heavy_minus_sign:                  |
 | #7                   |:white_check_mark:                  |:white_check_mark:                        |:white_check_mark:                    |:heavy_minus_sign:                  |
+---
 
 02_basic_data_types
 | problem_statement    | full_problems                      | missing_specifications                   | missing_objectives                   | diff_objectives                    |
@@ -21,6 +22,7 @@
 | #11                  |:white_check_mark:                  |:white_check_mark:                        |:white_check_mark:                    |:heavy_minus_sign:                  |
 | #12                  |:white_check_mark:                  |:white_check_mark:                        |:white_check_mark:                    |:heavy_minus_sign:                  |
 | #13                  |:white_check_mark:                  |:heavy_minus_sign:                        |:heavy_minus_sign:                    |:heavy_minus_sign:                  |
+
 
 03_strings
 | problem_statement    | full_problems                      | missing_specifications                   | missing_objectives                   | diff_objectives                    |
@@ -41,7 +43,6 @@
 | #27                  |:white_check_mark:                  |:white_check_mark:                        |:white_check_mark:                    |:heavy_minus_sign:                  |
 
 
-
 04_sets
 | problem_statement    | full_problems                      | missing_specifications                   | missing_objectives                   | diff_objectives                    |
 |:------------------   |:-----------------                  |:-----------------------                  |:-------------------                  |:-----------------                  |
@@ -58,7 +59,6 @@
 | #38                  |:white_check_mark:                  |:white_check_mark:                        |:white_check_mark:                    |:x:                                 |
 | #39                  |:white_check_mark:                  |:x:                                       |:x:                                   |:heavy_minus_sign:                  |
 | #40                  |:white_check_mark:                  |:white_check_mark:                        |:x:                                   |:heavy_minus_sign:                  |
-
 
 
 05_math
@@ -133,10 +133,9 @@
 12_python_functionals
 | problem_statement    | full_problems                      | missing_specifications                   | missing_objectives                   | diff_objectives                    |
 |:------------------   |:-----------------                  |:-----------------------                  |:-------------------                  |:-----------------                  |
-| #75                  |:white_check_mark:                  |:heavy_minus_sign:                        |:heavy_minus_sign:                    |:x:                                 |
+| #75                  |:white_check_mark:                  |:heavy_minus_sign:                        |:heavy_minus_sign:                    |:white_check_mark:                  |
 | #76                  |:white_check_mark:                  |:white_check_mark:                        |:x:                                   |:heavy_minus_sign:                  |
 | #77                  |:white_check_mark:                  |:white_check_mark:                        |:heavy_minus_sign:                    |:heavy_minus_sign:                  |
-
 
 
 13_regex_and_parsing
@@ -159,6 +158,7 @@
 | #92                  |:white_check_mark:                  |:white_check_mark:                        |:white_check_mark:                    |:heavy_minus_sign:                  |
 | #93                  |:white_check_mark:                  |:white_check_mark:                        |:white_check_mark:                    |:heavy_minus_sign:                  |
 | #94                  |:white_check_mark:                  |:x:                                       |:x:                                   |:heavy_minus_sign:                  |
+
 
 14_xml
 | problem_statement    | full_problems                      | missing_specifications                   | missing_objectives                   | diff_objectives                    |
@@ -199,3 +199,4 @@
 |:------------------   |:-----------------                  |:-----------------------                  |:-------------------                  |:-----------------                  |
 | #114                 |:white_check_mark:                  |:white_check_mark:                        |:x:                                   |:heavy_minus_sign:                  |
 | #115                 |:white_check_mark:                  |:white_check_mark:                        |:x:                                   |:heavy_minus_sign:                  |
+
